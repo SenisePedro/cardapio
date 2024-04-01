@@ -7,7 +7,7 @@ module.exports = {
     },
     extend: {
       backgroundImage:{
-        "home": "url('./assets/bg.png')"
+        "home": "url('https://github.com/SenisePedro/cardapio/blob/main/assets/bg.png?raw=true')"
       }
     },
   },
